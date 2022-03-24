@@ -1,0 +1,6 @@
+matplotlib
+pandas
+fsspec
+tox
+tox-conda
+gcsfs

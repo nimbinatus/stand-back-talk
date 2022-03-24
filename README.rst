@@ -1,0 +1,1 @@
+Note that I've added a requirements.txt file for people who don't use Pipenv. If you run into any trouble, though, please let me know!
